@@ -756,6 +756,15 @@ a.alert-link {
   cursor:none; 
 }
 
+.btn-fullscreen {
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: .5;
+  z-index: 1000;
+  cursor: none;
+}
+
 .overlay-content {
   position: relative;
   top: 25%;
